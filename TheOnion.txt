@@ -6,13 +6,15 @@ driverless technology will improve or endanger our lives. The Onion weighs the
 pros and cons of self-driving cars:
 
 Pro:
-- Can finally spend quality time fiddling with radio knobs
+
 
 - Cities with poor public transportation given the opportunity to dump the
 systemic problem onto Google or whoever
 
 - Frees up drivers to be obscene and aggressive toward each other in all sorts
 of new ways
+
+EASTER EGG ******************** KILROY WAS HERE
 
 - Massive savings on steering wheel maintenance
 
